@@ -1,0 +1,1 @@
+Python ve Tensorflow ile İskambil Kağıtları tanıma uygulaması
